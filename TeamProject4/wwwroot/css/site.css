@@ -1,0 +1,56 @@
+html {
+  font-size: 14px;
+}
+* {
+    margin: 0 !important;
+    padding:0;
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.form-login {
+    background: url(../image/thumb-1920-362619.jpg);
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.form-loginContainer {
+    border: 2px solid #ffffff40;
+    width: 100%;
+    border-radius: 5px;
+    padding: 20px 0;
+    backdrop-filter: blur(10px);
+
+}
+.mainSTT {
+    width: 100%;
+}
+.nameHotel {
+    font: 40px;
+    color: #fff;
+    text-align: center;
+}
+.STT {
+    color:#fff;
+    text-align: center;
+    text-decoration: initial;
+}

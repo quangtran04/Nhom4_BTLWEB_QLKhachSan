@@ -1,0 +1,272 @@
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\appsettings.Development.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\appsettings.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.staticwebassets.runtime.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.exe
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.deps.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.runtimeconfig.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\TeamProject4.pdb
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Humanizer.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.AssemblyReference.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfoInputs.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfo.cs
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.CoreCompileInputs.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.MvcApplicationPartsAssemblyInfo.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cs
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.TeamProject4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.build.TeamProject4.props
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeamProject4.props
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeamProject4.props
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\scopedcss\bundle\TeamProject4.styles.css
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\scopedcss\projectbundle\TeamProject4.bundle.scp.css
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.CopyComplete
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\refint\TeamProject4.dll
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.pdb
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\TeamProject4.genruntimeconfig.cache
+D:\Uni\WebPrac\TeamProject4\TeamProject4\obj\Debug\net6.0\ref\TeamProject4.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.Development.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.staticwebassets.runtime.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.exe
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.deps.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.runtimeconfig.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.pdb
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Humanizer.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.AssemblyReference.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfoInputs.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfo.cs
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.CoreCompileInputs.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.MvcApplicationPartsAssemblyInfo.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cs
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.build.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.development.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.TeamProject4.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.build.TeamProject4.props
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeamProject4.props
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeamProject4.props
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.pack.json
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\bundle\TeamProject4.styles.css
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\projectbundle\TeamProject4.bundle.scp.css
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProj.C5299147.Up2Date
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\refint\TeamProject4.dll
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.pdb
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.genruntimeconfig.cache
+F:\BTVN\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\ref\TeamProject4.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.Development.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.staticwebassets.runtime.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.exe
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.deps.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.runtimeconfig.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.pdb
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Humanizer.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.AssemblyReference.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfoInputs.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfo.cs
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.CoreCompileInputs.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.MvcApplicationPartsAssemblyInfo.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cs
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.build.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.development.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.TeamProject4.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.build.TeamProject4.props
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeamProject4.props
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeamProject4.props
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\bundle\TeamProject4.styles.css
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\projectbundle\TeamProject4.bundle.scp.css
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProj.C5299147.Up2Date
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\refint\TeamProject4.dll
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.pdb
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.genruntimeconfig.cache
+F:\Quan_Ly_Khach_San-master (1)\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\ref\TeamProject4.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.Development.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\appsettings.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.staticwebassets.runtime.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.exe
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.deps.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.runtimeconfig.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\TeamProject4.pdb
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Humanizer.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.AssemblyReference.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.GeneratedMSBuildEditorConfig.editorconfig
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfoInputs.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.AssemblyInfo.cs
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.csproj.CoreCompileInputs.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.MvcApplicationPartsAssemblyInfo.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.RazorAssemblyInfo.cs
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.build.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.development.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.TeamProject4.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.build.TeamProject4.props
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeamProject4.props
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeamProject4.props
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\staticwebassets.pack.json
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\bundle\TeamProject4.styles.css
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\scopedcss\projectbundle\TeamProject4.bundle.scp.css
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProj.C5299147.Up2Date
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\refint\TeamProject4.dll
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.pdb
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\TeamProject4.genruntimeconfig.cache
+F:\BTL_WEB\Quan_Ly_Khach_San-master\TeamProject4\obj\Debug\net6.0\ref\TeamProject4.dll
